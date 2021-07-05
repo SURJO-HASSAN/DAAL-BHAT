@@ -18,7 +18,30 @@ body{
 .top-head{
     margin: auto;
 }
-#second{
+#balck-section{
     background-color: black;
     
+}
+span{
+    color: rgb(255, 174, 0);
+}
+#second-section{
+    font-size: 60px;
+    margin-left: 100px;
+}
+#table-booking{
+    display: flex;
+    background-color: orange;
+    margin: auto;
+}
+#booking-a-table{
+    margin-right: 40%;
+    padding-left: 5%;
+}
+
+.booking{
+    margin: auto;
+}
+button{
+   margin-right: 15px;
 }
