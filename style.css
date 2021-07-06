@@ -11,7 +11,7 @@ body{
     padding-left: 20px;
     font-size: 23px;
 }
-#half-logo{
+.half-logo{
     color: white;
     font-weight: 900;
 }
@@ -78,4 +78,22 @@ button{
 }
 h4{
     font-size: 30px;
+}
+#favariout-dish{
+    background-color: orange;
+  
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+#daal{
+    color: orange;
+}
+h4{
+    color: orange;
+    padding-bottom: 30px;
+}
+.daal-bhat{
+    padding-top: 20px;
 }
