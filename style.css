@@ -27,7 +27,26 @@ span{
 }
 #second-section{
     font-size: 60px;
-    margin-left: 100px;
+   display: flex;
+    background-image: url(Untitled-1-Recovered.gif);
+    background-repeat: no-repeat;
+    background-position-y: 4cm;
+}
+.second-section-div{
+    padding-left: 20%;
+}
+#second-section-img{
+    margin-left: 45%;
+}
+
+.anchor{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 900;
+    background-color: black;
+    padding: 10px 25px;
+    border-radius: 15px;
 }
 #table-booking{
     display: flex;
@@ -44,4 +63,19 @@ span{
 }
 button{
    margin-right: 15px;
+}
+.balck-section{
+    background-color: black;
+}
+#mid-section{
+    display: flex;
+    background-color: orange;
+}
+#about-us{
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+}
+h4{
+    font-size: 30px;
 }
