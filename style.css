@@ -85,6 +85,32 @@ h4{
     background-color: orange;
   
 }
+
+#bottom-section{
+    background-image: url(Project\ Cover7.png);
+    background-position: left;
+    display: flex;
+    margin: 10%;
+    margin-right: 20%;
+    box-shadow: 10px 10px 30px gray;
+  
+}
+.bottom-image{
+ padding-left: 2%;
+ padding-right: 2%;
+ box-shadow: 10px 10px 30px gray;
+ border-radius: 30px;
+}
+.bottom-paragraph{
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    font-size: 30px;
+}
+#assure{
+    padding-top: 170%;
+    padding-left: 130%;
+   
+}
 footer{
     background-color: black;
     text-align: center;
@@ -100,27 +126,4 @@ h5{
 .daal-bhat{
     padding-top: 20%;
     color: white;
-}
-#bottom-section{
-    background-image: url(Project\ Cover4.png);
-    background-position: left;
-    display: flex;
-    margin: 10%;
-    margin-right: 13%;
-  
-}
-.bottom-image{
- padding-left: 2%;
- padding-right: 2%;
- box-shadow: 10px 10px 30px gray;
- border-radius: 30px;
-}
-.bottom-paragraph{
-    color: rgb(255, 255, 255);
-    font-weight: 900;
-    font-size: 30px;
-}
-#assure{
-    padding-top: 170%;
-    padding-left: 130%;
 }
